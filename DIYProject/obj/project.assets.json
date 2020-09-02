@@ -20,7 +20,7 @@
           "lib/netcoreapp3.1/Amazon.Lambda.LexEvents.dll": {}
         }
       },
-      "Amazon.Lambda.Serialization.SystemTextJson/2.0.0": {
+      "Amazon.Lambda.Serialization.SystemTextJson/2.0.1": {
         "type": "package",
         "dependencies": {
           "Amazon.Lambda.Core": "1.1.0"
@@ -179,14 +179,14 @@
         "lib/netstandard2.0/Amazon.Lambda.LexEvents.xml"
       ]
     },
-    "Amazon.Lambda.Serialization.SystemTextJson/2.0.0": {
-      "sha512": "En67XZpjBILNrLdb/7HqGtqkPjoRYDjViY4+PEn1CAe53FNStU/vbcVtDvDyvQeUnFgMui3zvMdlsjJIzBPHdQ==",
+    "Amazon.Lambda.Serialization.SystemTextJson/2.0.1": {
+      "sha512": "WPtMxw5jwEcVbe0Ro/bF0VDnict/zoCW0r6dfRIIOthjO+fVMgDyGYa4Pkz6ptgCCFcnhQuOq6iebYw1LRZeIQ==",
       "type": "package",
-      "path": "amazon.lambda.serialization.systemtextjson/2.0.0",
+      "path": "amazon.lambda.serialization.systemtextjson/2.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+        "amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
         "amazon.lambda.serialization.systemtextjson.nuspec",
         "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll",
         "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.xml"
@@ -357,7 +357,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Amazon.Lambda.Core >= 1.1.0",
       "Amazon.Lambda.LexEvents >= 2.0.0",
-      "Amazon.Lambda.Serialization.SystemTextJson >= 2.0.0",
+      "Amazon.Lambda.Serialization.SystemTextJson >= 2.0.1",
       "Microsoft.Extensions.Configuration >= 3.1.7",
       "Microsoft.Extensions.Configuration.FileExtensions >= 3.1.7",
       "Microsoft.Extensions.Configuration.Json >= 3.1.7",
@@ -411,7 +411,7 @@
           },
           "Amazon.Lambda.Serialization.SystemTextJson": {
             "target": "Package",
-            "version": "[2.0.0, )"
+            "version": "[2.0.1, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jFJAT/DyPP4vXJL8NHuHOLpXGGhmO9J+tadCqmS8jHyXL9Wys5/rFYOZjqxqOCAocUaJfJNiG/9cnKUOIH03Zw==",
+  "dgSpecHash": "lmtMZufQyHPzCLeNIGS4xDTdLJmk2ttflG8r2FotkQ8242W6RFuvN07fsThCYx2tOOx6V8yW+iYgGnRAfucpDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\harry\\Desktop\\DIYProject\\DIYProject\\DIYProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harry\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
     "C:\\Users\\harry\\.nuget\\packages\\amazon.lambda.lexevents\\2.0.0\\amazon.lambda.lexevents.2.0.0.nupkg.sha512",
-    "C:\\Users\\harry\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\harry\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.1\\amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
     "C:\\Users\\harry\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
     "C:\\Users\\harry\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\harry\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.7\\microsoft.extensions.configuration.fileextensions.3.1.7.nupkg.sha512",

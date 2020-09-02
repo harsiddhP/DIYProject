@@ -21,3 +21,4 @@ C:\Users\harry\Desktop\DIYProject\DIYProject\obj\Debug\netcoreapp3.1\DIYProject.
 C:\Users\harry\Desktop\DIYProject\DIYProject\obj\Debug\netcoreapp3.1\DIYProject.pdb
 C:\Users\harry\Desktop\DIYProject\DIYProject\obj\Debug\netcoreapp3.1\DIYProject.genruntimeconfig.cache
 C:\Users\harry\Desktop\DIYProject\DIYProject\obj\Debug\netcoreapp3.1\DIYProject.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\DIYProject\DIYProject\obj\Debug\netcoreapp3.1\DIYProject.csprojAssemblyReference.cache
