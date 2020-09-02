@@ -1,7 +1,7 @@
 version: 0.0
 os: windows 
 files:
-  - source: DIYProject/build_output
+  - source: DIYProject\build_output
     destination: C:\Users\Administrator\aspnetlexchatbot
 hooks:
   ApplicationStop:
