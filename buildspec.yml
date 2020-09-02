@@ -3,7 +3,7 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - dotnet restore DIYProject/DIYProject
+      - dotnet restore
   build:
     commands:
       - echo Build started on `date`
