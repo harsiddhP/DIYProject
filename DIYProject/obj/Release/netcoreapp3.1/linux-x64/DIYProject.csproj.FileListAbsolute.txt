@@ -1,0 +1,12 @@
+C:\Users\harry\source\repos\DIYProject\DIYProject\bin\Release\netcoreapp3.1\linux-x64\DIYProject.deps.json
+C:\Users\harry\source\repos\DIYProject\DIYProject\bin\Release\netcoreapp3.1\linux-x64\DIYProject.runtimeconfig.json
+C:\Users\harry\source\repos\DIYProject\DIYProject\bin\Release\netcoreapp3.1\linux-x64\DIYProject.runtimeconfig.dev.json
+C:\Users\harry\source\repos\DIYProject\DIYProject\bin\Release\netcoreapp3.1\linux-x64\DIYProject.dll
+C:\Users\harry\source\repos\DIYProject\DIYProject\bin\Release\netcoreapp3.1\linux-x64\DIYProject.pdb
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.csprojAssemblyReference.cache
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.AssemblyInfo.cs
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.dll
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.pdb
+C:\Users\harry\source\repos\DIYProject\DIYProject\obj\Release\netcoreapp3.1\linux-x64\DIYProject.genruntimeconfig.cache
